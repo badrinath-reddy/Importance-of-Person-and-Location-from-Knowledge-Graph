@@ -1,0 +1,6 @@
+spacy
+matplotlib
+networkx
+pandas
+bs4
+scipy
