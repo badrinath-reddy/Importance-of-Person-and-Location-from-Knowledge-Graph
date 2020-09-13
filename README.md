@@ -1,4 +1,4 @@
-# Importance of Persons And Locations Using Knowledge Graph(KG)
+# Importance of Persons And Locations Using Knowledge Graph
 
 ## Procedure
 
