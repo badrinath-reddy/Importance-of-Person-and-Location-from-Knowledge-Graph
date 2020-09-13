@@ -11,13 +11,14 @@
 
 ### Setup in windows
 
+- Download the data and place in the main folder
+
+### Run
+
 - virtualenv venv
 - venv\Scripts\activate
 - pip install -r requirements.txt
 - python -m spacy download en_core_web_sm
-
-### Run
-
 - python main.py
 
 ## Note

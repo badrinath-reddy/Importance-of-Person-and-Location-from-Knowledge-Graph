@@ -1,3 +1,7 @@
+# data
+wiki_sentences_v2.csv
+graph.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
